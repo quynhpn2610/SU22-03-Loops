@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class checkIfIncreasing {
     public static void main (String[] args){
         boolean flag = true;
         Scanner sc = new Scanner(System.in);
